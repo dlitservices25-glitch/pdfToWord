@@ -94,7 +94,7 @@ def convert_pdf_to_docx(pdf_path):
 # STREAMLIT UI
 # ----------------------------
 
-st.set_page_config(page_title="PDF → DOCX Converter", layout="centered")
+st.set_page_config(page_title="DocPingu -PDF → DOCX Converter", layout="centered")
 
 st.image("img/DocPingu.png", caption="DocPingu")
 st.title(" PDF → Word Converter ")
